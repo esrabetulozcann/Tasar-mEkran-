@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <resources>
+        <string name="app_name">Hamburger</string>
+        <string name="hamburgerBaslik">Double Beef Burger</string>
+        <string name="altBaslik">Rustik Mutfak</string>
+        <string name="puan">4.9</string>
+        <string name="adet">1</string>
+        <string name="tanimlamaBaslik">Tanım</string>
+        <string name="tanimlamaAciklama">Double Beef Burger: İki dana köftesi, taze malzemeler ve otantik Britanya lezzeti için gizli sosumuz...</string>
+        <string name="toplamSiparişAdeti">Toplam Sipariş: 1</string>
+        <string name="fiyatYazi">192,07 TL</string>
+        <string name="buttonYazi">Şimdi Sipariş Ver</string>
+    </resources>
+</resources>

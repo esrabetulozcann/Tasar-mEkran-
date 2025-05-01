@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hamburger</string>
+    <string name="hamburgerBaslik">Double Beef Burger</string>
+    <string name="altBaslik">The Rustic Kitchen</string>
+    <string name="puan">4.9</string>
+    <string name="adet">1</string>
+    <string name="tanimlamaBaslik">Description</string>
+    <string name="tanimlamaAciklama">The Double Beef Burger: two beef patties, fresh toppings, and our secret souce for an authentic taste of Britain...</string>
+    <string name="toplamSiparişAdeti">Total Order: 1</string>
+    <string name="fiyatYazi">$ 4.99</string>
+    <string name="buttonYazi">Order Now</string>
+</resources>
